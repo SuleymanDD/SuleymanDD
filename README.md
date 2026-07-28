@@ -48,10 +48,15 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuleymanDD&show_icons=true&theme=radium" alt="SuleymanDD GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuleymanDD&show_icons=true&theme=radium&count_private=true" alt="SuleymanDD GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanDD&theme=radium" alt="SuleymanDD GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SuleymanDD&theme=radium" alt="SuleymanDD GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuleymanDD&theme=react&hide_border=true" alt="SuleymanDD Activity Graph" />
 </p>
 
 ---
@@ -61,10 +66,10 @@
 Projeler üzerine konuşmak, fikir alışverişi yapmak veya iş birlikleri için bana aşağıdaki kanallardan ulaşabilirsin:
 
 <p align="left">
-  <a href="mailto:senin.email.adresin@gmail.com">
+  <a href="mailto:suleymanddevlet@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/senin-linkedin-url">
+  <a href="https://www.linkedin.com/in/suleymandd/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
