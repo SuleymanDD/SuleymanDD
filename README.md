@@ -15,7 +15,7 @@
 - 🎓 **Zonguldak Bülent Ecevit Üniversitesi**'nde eğitim gördüm.
 - 💻 Aktif olarak **React, JavaScript, Node.js ve GraphQL** ekosistemlerinde uygulamalar geliştiriyorum.
 - 🗄️ Relational ve Non-Relational veritabanları (MongoDB, PostgreSQL, Redis, MS SQL Server) ile çalışıyorum.
-- 🇬🇧 **B2 seviyesinde İngilizce** biliyorum.
+- 🔤 **B2 seviyesinde İngilizce** biliyorum.
 - 🚀 Yeni şeyler inşa etmeyi ve karmaşık problemlere temiz, ölçeklenebilir çözümler üretmeyi seviyorum.
 
 ---
@@ -46,14 +46,6 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuleymanDD&show_icons=true&theme=radium&count_private=true" alt="SuleymanDD GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SuleymanDD&theme=radium" alt="SuleymanDD GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuleymanDD&theme=react&hide_border=true" alt="SuleymanDD Activity Graph" />
